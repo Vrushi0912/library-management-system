@@ -83,4 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✍️ Author
 
-Developed by [Your Name]
+Developed by **Vrushket Mulye**
